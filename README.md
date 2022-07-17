@@ -1,19 +1,27 @@
-$ pkg update && apt upgrade
+$ apt update && apt upgrade
 
-$ pkg install python git
+$ termux-setup-storage  
+
+   • Enter  
+
+   • Ketik y Atau Pilih Izinkan
+
+$ pkg install python
 
 $ pkg install play-audio
 
-$ pip install requests mechanize
+$ pkg install git
 
-$ pip install rich bs4
+$ pip install requests
 
-$ pip install --upgrade pip
+$ pip install rich
+
+$ pip install bs4
 
 $ git clone https://github.com/Syafii-XD/memek
 
-$ ls ( L kecil )
-
 $ cd memek
+
+$ git pull
 
 $ python run.py
