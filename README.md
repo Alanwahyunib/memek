@@ -16,6 +16,8 @@ $ pip install requests
 
 $ pip install rich
 
+$ pip install mechanize
+
 $ pip install bs4
 
 $ git clone https://github.com/Syafii-XD/memek
